@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm DevOpsParthu</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://app.gemoo.com/share/image-annotation/618458830858301440?codeId=DWa8lA2Lm02nm&origin=imageurlgenerator&card=618458828576600064">
+
+
 - 🌱 I’m currently learning **DevSecOps**
 
 - 📝 I regularly write articles on [https://devopsparthu.hashnode.dev/](https://devopsparthu.hashnode.dev/)
