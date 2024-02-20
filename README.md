@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nallabellisriparthu</h1>
+<h1 align="center">Hi 👋, I'm DevOpsParthu</h1>
 
 <h3 align="center">A passionate on DevOps & Cloud enthusiast from India</h3>
 
@@ -8,23 +8,22 @@
 
 <img align="right" alt="GIF" src="https://simplecoding.dev/assets/devops.gif" width="400" height="200" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nallabellisriparthu&label=Profile%20views&color=0e75b6&style=flat" alt="nallabellisriparthu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevOpsParthu&label=Profile%20views&color=0e75b6&style=flat" alt="DevOpsParthu" /> </p>
 
 - 🌱 I’m currently learning **Advance DevOps - Zero to Hero (15 July 2023)**
 
-- 📝 I regularly write articles on [https://hashnode.com/@sriparthu1014](https://hashnode.com/@sriparthu1014)
+- 📝 I regularly write articles on [https://devopsparthu.hashnode.dev/](https://devopsparthu.hashnode.dev/)
 
-- 💬 Ask me about **Linux , Git&Github , Docker , Jenkins , Kubernetes , AWS CCP , Teraform , Grafana , Prometheus , Mega project**
+- 💬 Ask me about **Linux , Git&Github , Python , Docker , Jenkins , Kubernetes , AWS CCP , Teraform , Grafana , Prometheus , Mega project**
 
-- 📫 How to reach me **nallabellisriparthu1014@gmail.com**
+- 📫 How to reach me **devopsparthu**
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sri-parthu-198273284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sri-parthu-198273284/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/devopsparthu/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/devopsparthu/?next=%2f" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@sriparthu1014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sriparthu1014" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devops-parthu-45927a2a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sri-parthu-198273284/" height="30" width="40" /></a>
+<a href="https://devopsparthu.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sriparthu1014" height="30" width="40" /></a>
 </p>
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
