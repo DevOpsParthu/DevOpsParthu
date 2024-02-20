@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm DevOpsParthu</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://app.gemoo.com/share/image-annotation/618458830858301440?codeId=DWa8lA2Lm02nm&origin=imageurlgenerator&card=618458828576600064">
+<p align="center">
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20DevOps%20Engineer&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
+<img align="right" alt="GIF" src="https://simplecoding.dev/assets/devops.gif" width="400" height="200" />
 
 - 🌱 I’m currently learning **DevSecOps**
 
