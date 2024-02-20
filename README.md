@@ -6,7 +6,7 @@
   <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20DevOps%20Engineer&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<img align="right" alt="GIF" src="https://imagetolink.com/ib/p9kToWHNQx" width="400" height="200" />
+<img align="right" alt="IMAGE" src="https://imagetolink.com/ib/p9kToWHNQx" width="400" height="200" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevOpsParthu&label=Profile%20views&color=0e75b6&style=flat" alt="DevOpsParthu" /> </p>
 
