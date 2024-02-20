@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm DevOpsParthu</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
+<div align="center">
+  <img src="https://github.com/DevOpsParthu/DevOpsParthu/assets/152391688/cd906f95-d08b-4fc8-b273-4cb0e2f5535c" alt="my logo">
+</div>
+
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20DevOps%20Engineer&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
