@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://simplecoding.dev/assets/devops.gif" width="400" height="200" />
 
-- 🌱 I’m currently learning **DevSecOps**
+- 🌱 I’m currently learning **Advance DevOps - Zero to Hero (15 July 2023) , DevSecOps**
 
 - 📝 I regularly write articles on [https://devopsparthu.hashnode.dev/](https://devopsparthu.hashnode.dev/)
 
